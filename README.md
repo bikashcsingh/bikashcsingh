@@ -74,6 +74,9 @@ I welcome collaborations with researchers, students, industry partners, and publ
 - 🏛️ [Fresno State Faculty Profile](https://csm.fresnostate.edu/about/directory/csci/singh-bikash.html)
 - ✉️ [Email](mailto:bisingh@mail.fresnostate.edu)
 
+
+##### **Disclaimer:** This is a personal GitHub profile and does not officially represent California State University, Fresno.
+
 ---
 
 > Advancing cybersecurity and trustworthy AI through research, education, and collaboration.
