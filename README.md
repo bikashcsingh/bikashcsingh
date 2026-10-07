@@ -6,6 +6,12 @@ My research focuses on developing secure, privacy-preserving, and trustworthy in
 
 ## 📰 News
 
+- **October 2026 — Publication:** Our paper, *Evaluating Predictive-Uncertainty Signals against Model Extraction and Prompt Injection on LLM Agents*, was accepted for presentation at the **IEEE Consumer Communications & Networking Conference 2027** in Las Vegas, NV, USA.
+
+- - **October 2026 — Publication:** Our paper, *A Hierarchical Deterministic Framework for Cancelable Biometrics*, was accepted for presentation at the **IEEE Consumer Communications & Networking Conference 2027** in Las Vegas, NV, USA.
+ 
+  - - **October 2026 — Publication:** Our paper, *A LangGraph-Orchestrated Framework for Secure Analysis and Repair of LLM-Generated Code (IEEE CCNC 2027)*, was accepted for presentation at the **IEEE Consumer Communications & Networking Conference 2027** in Las Vegas, NV, USA.
+
 - **August 2026 — Publication:** Our paper, *Embedding-Based Anomaly Detection for Poisoned Client Filtering in Federated Learning*, was accepted for presentation at the **2026 IEEE International Conference on Intelligence and Security Informatics (IEEE ISI 2026)** in Cambridge, United Kingdom.
 - **2026 — Publication:**  Our paper, *Multi-Agent LLM Closed-Loop Optimization for NP-Hard Problems*, was accepted for presentation at the **IEEE SoutheastCon 2026** in Alabama, US.
 
